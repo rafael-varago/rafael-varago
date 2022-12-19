@@ -21,10 +21,6 @@ I'm a student at the University of São Paulo (USP) and starting my career in te
   
 ##
   
-  <a href="https://github.com/raf144<img src="https://github-readme-activity-graph.cyclic.app/graph?username=raf144&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-  
-##
-  
 <div> 
   <a href="https://instagram.com/rafael_varago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rvarago1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
