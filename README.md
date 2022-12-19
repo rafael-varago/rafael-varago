@@ -21,7 +21,7 @@ I'm a student at the University of São Paulo (USP) and starting my career in te
   
 ##
   
-  <a href="https://github.com/raf144<img src="https://github-readme-stats.vercel.app/api?username=raf144&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rafael's GitHub stats" /></a>
+  <a href="https://github.com/raf144<img src="https://github-readme-activity-graph.cyclic.app/graph?username=raf144&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
 ##
   
