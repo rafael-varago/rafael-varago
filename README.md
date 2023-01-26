@@ -5,7 +5,7 @@ I'm a student at the University of São Paulo (USP) and starting my career in te
 ##
 
 <div align="center">
-  <a href="https://github.com/raf144">
+  <a href="https://github.com/rafael.varago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raf144&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
 
