@@ -11,7 +11,7 @@ I'm a student at the University of São Paulo (USP) and starting my career in te
 
 ##
   
-  Programming languages I'm learning ✏️:
+  Programming languages 💻:
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
