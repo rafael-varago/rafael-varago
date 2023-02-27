@@ -32,7 +32,8 @@ I'm a student at the University of São Paulo (USP) and starting my career in te
 <div>
   
   <p align="center"> 
-  Visitor count<br>
+  Visitor count 🖖
+  <br>
   <img src="https://profile-counter.glitch.me/rafael-varago/count.svg" />
 </p>
   
