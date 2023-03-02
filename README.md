@@ -4,7 +4,10 @@ I'm a student at the University of São Paulo (USP) and starting my career in te
 
 ##
 
-[![Rafael Varago's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-varago)](https://github.com/rafael-varago/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/rafael-varago">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-varago&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+</div>
 
 ##
   
