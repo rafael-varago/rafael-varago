@@ -4,7 +4,7 @@ I'm a student at the University of São Paulo (USP) and starting my career in te
 
 ##
 
-[![Rafael Varago's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-varago&theme=nord&show_icons=true)]
+![Rafael Varago's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-varago&theme=nord&show_icons=true)
 
 ##
   
